@@ -1,0 +1,1 @@
+﻿SELECT ProductName,UnitPrice FROM Products WHERE CategoryID = 3 AND UnitPrice > 15

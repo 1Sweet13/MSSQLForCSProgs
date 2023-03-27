@@ -1,0 +1,13 @@
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\bin\Debug\TestDB.mdf
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\bin\Debug\TestDB_log.ldf
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\bin\Debug\MSSQLForCSProgs.exe.config
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\bin\Debug\MSSQLForCSProgs.exe
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\bin\Debug\MSSQLForCSProgs.pdb
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\obj\Debug\MSSQLForCSProgs.csproj.AssemblyReference.cache
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\obj\Debug\MSSQLForCSProgs.csproj.SuggestedBindingRedirects.cache
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\obj\Debug\MSSQLForCSProgs.Form1.resources
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\obj\Debug\MSSQLForCSProgs.Properties.Resources.resources
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\obj\Debug\MSSQLForCSProgs.csproj.GenerateResource.cache
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\obj\Debug\MSSQLForCSProgs.csproj.CoreCompileInputs.cache
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\obj\Debug\MSSQLForCSProgs.exe
+D:\Projects\MSSQLForCSProgs\MSSQLForCSProgs\obj\Debug\MSSQLForCSProgs.pdb
